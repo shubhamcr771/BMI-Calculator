@@ -5,6 +5,8 @@ const result = document.querySelector("#result")
 
 
 
-
+function bmiCal() {
+    alert("Hello ji")
+}
 
 submit.addEventListener("click", bmi)
