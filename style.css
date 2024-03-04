@@ -1,0 +1,27 @@
+* {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+body{
+    background-color: azure;
+}
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+header h1{
+    margin: 80px 0px 30px 0px;
+    align-items: center;
+}
+
+.input>*{
+    height: 40px;
+    margin-top: 20px;
+    align-content: center;
+}
